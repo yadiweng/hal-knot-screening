@@ -1,0 +1,10 @@
+"dataset","kmeans_or_pam_better_pct","average_skewness","pct_abs_skew_gt_0.5","pct_abs_corr_gt_0.5"
+"cpu",100,3.06,100,53
+"automobile",100,0.71,73,44
+"communities_crime",89,0.89,77,11
+"pima",100,0.88,71,14
+"oecdpanel",100,-0.4,40,20
+"bike_sharing",100,0.17,25,11
+"liver_disorders",0,1.7,80,30
+"laheart",78,0.44,45,7
+"real_estate",100,0.1,33,20
